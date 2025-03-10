@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.flutter.plugins.videoplayerexample.app-mergeDebugResources-37:/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\abhib\\.gradle\\caches\\transforms-4\\c448962f564968ae56c540bfca4df8d9\\transformed\\jetified-core-1.6.1\\res\\values-v28\\values.xml",
+                    "from": {
+                        "startLines": "4,13",
+                        "startColumns": "0,0",
+                        "startOffsets": "146,625",
+                        "endLines": "12,21",
+                        "endColumns": "8,8",
+                        "endOffsets": "624,1101"
+                    },
+                    "to": {
+                        "startLines": "20,29",
+                        "startColumns": "4,4",
+                        "startOffsets": "1289,1772",
+                        "endLines": "28,37",
+                        "endColumns": "8,8",
+                        "endOffsets": "1767,2248"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\abhib\\.gradle\\caches\\transforms-4\\8cd9f60f87eebbc571c89772af379c61\\transformed\\appcompat-1.3.1\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,16",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "755,830,917,1097",
+                        "endLines": "10,11,15,19",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "825,912,1092,1284"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\abhib\\.gradle\\caches\\transforms-4\\1b8b118c7bed302256ef45adf2017803\\transformed\\material-1.4.0\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,231,319,407,494,581,668",
+                        "endColumns": "87,87,87,87,86,86,86,86",
+                        "endOffsets": "138,226,314,402,489,576,663,750"
+                    }
+                }
+            ]
+        }
+    ]
+}
